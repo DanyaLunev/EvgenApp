@@ -28,6 +28,43 @@
 }
 
 .my-margin {
-    margin-top: 130px;
+    margin-top: 70px;
     margin-bottom: 100px;
+}
+
+.my-image {
+    height: 60px;
+    width: 64px;
+}
+
+.people__selection {
+    font-family: 'Righteous', cursive;
+    font-size: 36px;
+    font-weight: 400;
+    color: #000000;  
+}
+
+.heading {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.people__text {
+    font-size: 24px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.people__margin {
+    margin-right: 10px;
+}
+
+.download-all {
+    background-color: #CFE0FF;
+    color: #003B46;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    padding-top: 8px;
+    margin-left: 75%;
 }
