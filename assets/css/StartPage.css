@@ -1,0 +1,33 @@
+.test__selection {
+    margin: 0px;
+    font-family: 'Sora', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.text {
+    color: #C4DFE6;
+}
+
+.bg__color {
+    background-color: #323232;
+}
+
+.bg-my {
+    background-color: #3B4964;
+}
+
+.my-btn {
+    display: block;
+    width: 70%;
+    margin: 20px;
+}
+
+.height {
+    height: 100vh;
+}
+
+.my-margin {
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
