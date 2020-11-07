@@ -1,3 +1,9 @@
+.body {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}   
+
 .test__selection {
     margin: 0px;
     font-family: 'Sora', sans-serif;
